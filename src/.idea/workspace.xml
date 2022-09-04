@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8f85469-034f-4b44-a8ee-2276eb8dc802" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/mylo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/background2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/musicbotbackg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/musicbotbackg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sec1pic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/AppHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/AppHeader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/AppHeader.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/AppHeader.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Articles/Articles.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Articles/Articles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Articles/SingleArticlePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Articles/SingleArticlePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Commands/Commands.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Commands/Commands.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Home/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Home/Home.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/Home/Home.module.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2EGNvsb8XSEuwD3e3TzMN3FZd03" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8f85469-034f-4b44-a8ee-2276eb8dc802" name="Default Changelist" comment="" />
+      <created>1662218200885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662218200885</updated>
+    </task>
+    <servers />
+  </component>
+</project>
